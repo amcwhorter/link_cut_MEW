@@ -1,0 +1,13 @@
+# Julia
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+/Manifest.toml
+
+# Compiled / cache
+.julia/
+__pycache__/
+
+# OS
+.DS_Store
+Icon?
